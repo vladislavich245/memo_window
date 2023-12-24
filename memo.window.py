@@ -1,4 +1,4 @@
-import PyQt5.QtWidgets import QApplscation, QWidget, QlineEdit,\
+mport PyQt5.QtWidgets import QApplscation, QWidget, QlineEdit,\
         QHBoxLayout, QVBoxLayout, QPushButton, QLabel
 
 menu_win= QWidget()
